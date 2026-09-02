@@ -12,5 +12,12 @@
     "year": 3,
     "major": "Computer Science",
     "favoriteHobby": "Video games"
+  },
+  {
+    "name": "Example",
+    "githubUsername": "exampleuser",
+    "year": 3,
+    "major": "Game Design",
+    "favoriteHobby": "Tennis"
   }
 ]
