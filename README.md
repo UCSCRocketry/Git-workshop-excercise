@@ -1,21 +1,21 @@
-# Git workshop excercise
+# Git workshop exercise
 UCSC Rocket Team 2026/27 Git onboarding Workshop
 
-## Workshop Excercise
+## Workshop Exercise
 
-This excercise provides a simple task that will introduce you to colaborative work though github here at Rocket Team. 
+This exercise provides a simple task that will introduce you to collaborative work through GitHub here at Rocket Team. 
 
-Steps to this excercise:
-    1. Assign yourself to the "Missing Data" Issue
-    2. Create your own branch to make your code changes in.
-    3. Follow the instructions on the "Missing Data" issue to make changes accordingly to the files in this repository. 
-    4. Commit and push your changes to your branch.
-    5. Once you have made the nesscarry changes, create a "Pull Request", fix any merge issue that may appear.
-    6. Request review from @OceancattUCSC.
+Steps to this exercise:
+1. Assign yourself to the "Missing Data" Issue
+2. Create your own branch to make your code changes in.
+3. Follow the instructions on the "Missing Data" issue to make changes accordingly to the files in this repository. 
+4. Commit and push your changes to your branch.
+5. Once you have made the necessary changes, create a "Pull Request" and fix any merge issues that may appear.
+6. Request review from @OceancattUCSC.
 
 ## Git command cheat sheet
 
-Here are some quick references for common Git commands and example usage that are useful during the when working with a Git repository. 
+Here are some quick references for common Git commands and example usage that are useful when working with a Git repository. 
 
 ### Setting up a Git Repo
 
@@ -34,7 +34,7 @@ Here are some quick references for common Git commands and example usage that ar
 ### Checking status and history
 
 - `git status`  
-  Show the current state of the repository, including modified and staged files.
+  Shows the current state of the repository, including modified and staged files.
   ```bash
   git status
   ```
@@ -181,7 +181,6 @@ git push origin feature/update-readme
 ## Notes
 
 - Commit often with clear, descriptive messages.
-- Always check `git status` before committing.
 - Pull the latest changes before pushing your work.
 - Use branches to keep separate work isolated.
 
