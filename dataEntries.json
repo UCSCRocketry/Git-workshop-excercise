@@ -12,5 +12,12 @@
     "year": 3,
     "major": "Computer Science",
     "favoriteHobby": "Video games"
+  },
+  {
+    "name": "Prateek Gupta",
+    "githubUsername": "prateekgupta5",
+    "year": 2,
+    "major": "Computer Science",
+    "favoriteHobby": "Reading"
   }
 ]
