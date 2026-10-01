@@ -13,6 +13,72 @@ Steps to this exercise:
 5. Once you have made the necessary changes, create a "Pull Request" and fix any merge issues that may appear.
 6. Request review from @OceancattUCSC.
 
+## SSH keys (Credit to CSE 40 HW0 Git Setup Instructions)
+
+When using Git, the easiest way to authenticate from the command line is with [SSH keys](https://wiki.archlinux.org/title/SSH_keys).
+
+SSH keys are a pair of keys: a private key and a public key. You can use them to prove your identity to GitHub and other services. Always keep your **private key private** and never share it with anyone. You can share your public key with services that need to authenticate you, such as GitHub.
+
+GitHub supports SSH keys for repository access. You can also authenticate with [personal access tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token#creating-a-personal-access-token-classic), but SSH keys are the recommended approach for this course.
+
+### Check for existing keys
+
+SSH keys are usually stored in the `~/.ssh` directory, where `~` means your [home directory](https://en.wikipedia.org/wiki/Home_directory). Check for existing keys before generating a new one:
+
+```bash
+ls -lh ~/.ssh
+```
+
+Key files usually start with `id_`. Public keys have a `.pub` suffix, while private keys have no suffix. If you already have a key you want to use, you can skip to [Add your public key to GitHub](#add-your-public-key-to-github).
+
+### Generate an SSH key
+
+Use `ssh-keygen` to generate a new key. The default settings are sufficient for this course. Ed25519 is a modern, secure key type:
+
+```bash
+ssh-keygen -t ed25519 -C "your_email@example.com"
+```
+
+When prompted:
+
+1. Press **Enter** to accept the default file location if this is your first key. If you already have a key, enter another memorable filename, such as `~/.ssh/id_github`.
+2. Enter a passphrase, or press **Enter** twice to leave it empty. A passphrase provides additional protection if someone gains access to your computer.
+
+For example:
+
+```text
+Enter file in which to save the key (/Users/your-name/.ssh/id_ed25519):
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in /Users/your-name/.ssh/id_ed25519
+Your public key has been saved in /Users/your-name/.ssh/id_ed25519.pub
+```
+
+The command creates two files in `~/.ssh`:
+
+- `id_ed25519`: your private key. Never share this file.
+- `id_ed25519.pub`: your public key. This is the key you can share with GitHub.
+
+### Add your public key to GitHub
+
+Print your public key so you can copy it:
+
+```bash
+cat ~/.ssh/id_ed25519.pub
+```
+
+The key typically starts with `ssh-ed25519` and ends with your email address. Copy the entire line, but do not copy your private key.
+
+Then:
+
+1. Open [GitHub SSH and GPG keys settings](https://github.com/settings/keys).
+2. Click **New SSH key**.
+3. Give the key a descriptive title, such as `Personal laptop`.
+4. Paste the public key into the **Key** field.
+5. Click **Add SSH key**.
+
+You can now use GitHub from the terminal over SSH without entering your GitHub password for every operation.
+
 ## Git command cheat sheet
 
 Here are some quick references for common Git commands and example usage that are useful when working with a Git repository. 
