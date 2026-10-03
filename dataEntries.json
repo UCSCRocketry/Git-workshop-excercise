@@ -19,5 +19,12 @@
     "year": 2,
     "major": "Computer Science",
     "favoriteHobby": "Reading"
+  },
+  {
+    "name": "Navilan Santhanakrishnan",
+    "githubUsername": "navilansan",
+    "year": 1,
+    "major": "Computer Engineering",
+    "favoriteHobby": "Chess"
   }
 ]
