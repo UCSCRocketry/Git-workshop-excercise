@@ -26,5 +26,12 @@
     "year": 3,
     "major": "Computer Science",
     "favoriteHobby": "sleeping"
+  },
+  {
+    "name": "Patrick Wright",
+    "githubUsername": "pwwright2006",
+    "year": 2,
+    "major": "Electrical Engineering",
+    "favoriteHobby": "Archery"
   }
 ]
