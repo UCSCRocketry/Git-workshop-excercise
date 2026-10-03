@@ -1,10 +1,10 @@
 [
   {
-    "name": "Isaac Avila-Branson",
-    "githubUsername": "isaacavilab",
-    "year": 3, "transfer" ,
-    "major": "Electrical Engineering",
-    "favoriteHobby": "Reading"
+    "name": "Your Name",
+    "githubUsername": "your-github-username",
+    "year": 0,
+    "major": "Computer Science",
+    "favoriteHobby": "Coding"
   },
   {
     "name": "Zhonghe Cai",
@@ -19,5 +19,11 @@
     "year": 2,
     "major": "Computer Science",
     "favoriteHobby": "Reading"
-  }
+  },
+  {
+    "name": "Isaac Avila-Branson",
+    "githubUsername": "isaacavilab",
+    "year": 3, "transfer",
+    "major": "Electrical Engineering",
+    "favoriteHobby": "Reading, Nature, Gaming"
 ]
