@@ -19,5 +19,12 @@
     "year": 2,
     "major": "Computer Science",
     "favoriteHobby": "Reading"
+  },
+  {
+    "name": "Nicholas Tang",
+    "githubUsername": "nicholas-tangerine",
+    "year": 3,
+    "major": "Computer Science",
+    "favoriteHobby": "sleeping"
   }
 ]
