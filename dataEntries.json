@@ -1,10 +1,10 @@
 [
   {
-    "name": "Varun Bharadwaj",
-    "githubUsername": "vbharad2-sketch",
-    "year": 2,
+    "name": "Your Name",
+    "githubUsername": "your-github-username",
+    "year": 0,
     "major": "Computer Science",
-    "favoriteHobby": "Tennis"
+    "favoriteHobby": "Coding"
   },
   {
     "name": "Zhonghe Cai",
@@ -19,5 +19,12 @@
     "year": 2,
     "major": "Computer Science",
     "favoriteHobby": "Reading"
+  },
+  {
+    "name": "Varun Bharadwaj",
+    "githubUsername": "vbharad2-sketch",
+    "year": 2,
+    "major": "Computer Science",
+    "favoriteHobby": "Tennis"
   }
 ]
