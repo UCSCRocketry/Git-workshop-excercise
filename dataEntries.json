@@ -19,5 +19,12 @@
     "year": 2,
     "major": "Computer Science",
     "favoriteHobby": "Reading"
+  },
+  {
+    "name": "Jadon Shupe",
+    "githubUsername": "JadonSh",
+    "year": 2,
+    "major": "Robotics Engineering",
+    "favoriteHobby": "Working out, Swimming, Hiking"
   }
 ]
