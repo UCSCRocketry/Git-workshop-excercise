@@ -26,5 +26,12 @@
     "year": 3,
     "major": "Computer Science",
     "favoriteHobby": "sleeping"
+  },
+  {
+    "name": "Ethan Kou",
+    "githubUsername": "Kuramarik",
+    "year": 1,
+    "major": "Computer Engineering",
+    "favoriteHobby": "JRPGs"
   }
 ]
