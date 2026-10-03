@@ -19,5 +19,12 @@
     "year": 2,
     "major": "Computer Science",
     "favoriteHobby": "Reading"
+  },
+  {
+    "name": "Linus Awyong",
+    "githubUsername": "Slippyu",
+    "year": 2,
+    "major": "Computer Engineering",
+    "favoriteHobby": "Cosplay"
   }
 ]
