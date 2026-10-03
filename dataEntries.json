@@ -26,5 +26,12 @@
     "year": 3,
     "major": "Computer Science",
     "favoriteHobby": "sleeping"
+  },
+  {
+    "name": "Sophie Gur",
+    "githubUsername": "Sophie-Gur",
+    "year": 3,
+    "major": "Robotics Engineering",
+    "favoriteHobby": "Seal/Sea Lion Watching"
   }
 ]
