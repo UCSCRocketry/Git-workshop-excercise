@@ -19,5 +19,12 @@
     "year": 2,
     "major": "Computer Science",
     "favoriteHobby": "Reading"
+  },
+  {
+    "name": "Bharat Marimuthu",
+    "githubUsername": "bharatmarimuthu",
+    "year": 1,
+    "major": "Computer Science: Computer Game Design",
+    "favoriteHobby": "Lifting"
   }
 ]
