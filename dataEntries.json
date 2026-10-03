@@ -26,5 +26,54 @@
     "year": 1,
     "major": "Computer Engineering",
     "favoriteHobby": "Chess"
+  {,
+  }
+    "name": "Linus Awyong",
+    "githubUsername": "Slippyu",
+    "year": 2,
+    "major": "Computer Engineering",
+    "favoriteHobby": "Cosplay"
+  },
+  {
+    "name": "Isaac Avila-Branson",
+    "githubUsername": "isaacavilab",
+    "year": 3, "transfer",
+    "major": "Electrical Engineering",
+    "favoriteHobby": "Reading, Nature, Gaming"
+  },
+  {
+    "name": "Jesse Easley",
+    "githubUsername": "Jesse-Easley",
+    "year": 3,
+    "major": "Computer Science",
+    "favoriteHobby": "Reading"
+  },
+  {
+    "name": "Nicholas Tang",
+    "githubUsername": "nicholas-tangerine",
+    "year": 3,
+    "major": "Computer Science",
+    "favoriteHobby": "sleeping"
+  },
+  {
+    "name": "Patrick Wright",
+    "githubUsername": "pwwright2006",
+    "year": 2,
+    "major": "Electrical Engineering",
+    "favoriteHobby": "Archery"
+  },
+  {
+    "name": "Ethan Kou",
+    "githubUsername": "Kuramarik",
+    "year": 1,
+    "major": "Computer Engineering",
+    "favoriteHobby": "JRPGs"
+  },
+  {
+    "name": "Sophie Gur",
+    "githubUsername": "Sophie-Gur",
+    "year": 3,
+    "major": "Robotics Engineering",
+    "favoriteHobby": "Seal/Sea Lion Watching"
   }
 ]
