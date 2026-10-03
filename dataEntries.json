@@ -19,5 +19,12 @@
     "year": 2,
     "major": "Computer Science",
     "favoriteHobby": "Reading"
+  },
+  {
+    "name": "Varun Bharadwaj",
+    "githubUsername": "vbharad2-sketch",
+    "year": 2,
+    "major": "Computer Science",
+    "favoriteHobby": "Tennis"
   }
 ]
