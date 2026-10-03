@@ -26,5 +26,19 @@
     "year": 3, "transfer",
     "major": "Electrical Engineering",
     "favoriteHobby": "Reading, Nature, Gaming"
+  },
+  {
+    "name": "Jesse Easley",
+    "githubUsername": "Jesse-Easley",
+    "year": 3,
+    "major": "Computer Science",
+    "favoriteHobby": "Reading"
+  },
+  {
+    "name": "Nicholas Tang",
+    "githubUsername": "nicholas-tangerine",
+    "year": 3,
+    "major": "Computer Science",
+    "favoriteHobby": "sleeping"
   }
 ]
