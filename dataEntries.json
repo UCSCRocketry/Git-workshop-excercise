@@ -82,5 +82,12 @@
     "year": 3,
     "major": "Robotics Engineering",
     "favoriteHobby": "Seal/Sea Lion Watching"
+  },
+  {
+    "name": "Varun Bharadwaj",
+    "githubUsername": "vbharad2-sketch",
+    "year": 2,
+    "major": "Computer Science",
+    "favoriteHobby": "Tennis"
   }
 ]
