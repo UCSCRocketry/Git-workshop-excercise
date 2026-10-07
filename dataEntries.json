@@ -89,5 +89,12 @@
     "year": 2,
     "major": "Electrical Engineering",
     "favoriteHobby": "Guitar"
+  },
+  {
+    "name": "Thomas Yip",
+    "githubUsername": "Thomas-Yip567",
+    "year": 1,
+    "major": "Electrical Engineering",
+    "favoriteHobby": "Gaming"
   }
 ]
