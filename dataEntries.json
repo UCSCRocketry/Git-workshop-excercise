@@ -33,8 +33,8 @@
     "year": 1,
     "major": "Computer Engineering",
     "favoriteHobby": "Chess"
-  {,
-  }
+  },
+  {
     "name": "Linus Awyong",
     "githubUsername": "Slippyu",
     "year": 2,
@@ -82,5 +82,12 @@
     "year": 3,
     "major": "Robotics Engineering",
     "favoriteHobby": "Seal/Sea Lion Watching"
+  },
+  {
+    "name": "Brian Acosta",
+    "githubUsername": "baacosta-cmyk",
+    "year": 2,
+    "major": "Electrical Engineering",
+    "favoriteHobby": "Guitar"
   }
 ]
