@@ -89,5 +89,12 @@
     "year": 2,
     "major": "Electrical Engineering",
     "favoriteHobby": "Guitar"
+  },
+  {
+    "name": "Owen H.",
+    "githubUsername": "MoonstoneStudios",
+    "year": 1,
+    "major": "Computer Engineering",
+    "favoriteHobby": "Drawing"
   }
 ]
