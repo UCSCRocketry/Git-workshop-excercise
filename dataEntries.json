@@ -89,5 +89,13 @@
     "year": 2,
     "major": "Electrical Engineering",
     "favoriteHobby": "Guitar"
+  },
+
+  {
+    "name": "Nishka Baweja",
+    "githubUsername": "nbaweja125",
+    "year": 2,
+    "major": "Computer Science",
+    "favoriteHobby": "gym"
   }
 ]
