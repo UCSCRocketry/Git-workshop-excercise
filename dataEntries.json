@@ -44,7 +44,7 @@
   {
     "name": "Isaac Avila-Branson",
     "githubUsername": "isaacavilab",
-    "year": 3, "transfer",
+    "year": "3 transfer",
     "major": "Electrical Engineering",
     "favoriteHobby": "Reading, Nature, Gaming"
   },
@@ -89,5 +89,12 @@
     "year": 2,
     "major": "Electrical Engineering",
     "favoriteHobby": "Guitar"
+  },
+  {
+    "name" : "Michael Wen",
+    "githubUsername" : "chrome173",
+    "year" : 1,
+    "major" : "Computer Science",
+    "favoriteHobby" : "Piano"
   }
 ]
