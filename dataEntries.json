@@ -89,5 +89,12 @@
     "year": 2,
     "major": "Electrical Engineering",
     "favoriteHobby": "Guitar"
+  },
+  {
+    "name": "Alexis Luo",
+    "githubUsername": "6elax",
+    "year": 2,
+    "major": "Computer Science",
+    "favoriteHobby": "Piano"
   }
 ]
