@@ -89,5 +89,12 @@
     "year": 2,
     "major": "Electrical Engineering",
     "favoriteHobby": "Guitar"
+  },
+    {
+    "name": "Dylan Lesseg",
+    "githubUsername": "dlesseg",
+    "year": 2,
+    "major": "Physics",
+    "favoriteHobby": "Skiing"
   }
 ]
