@@ -90,11 +90,11 @@
     "major": "Electrical Engineering",
     "favoriteHobby": "Guitar"
   },
-    {
-      "name": "Alon Rabinowitz",
-      "githubUsername": "alonrabinowitz",
-      "year": 2,
-      "major": "Computer Science",
-      "favoriteHobby": "Saying hi to Joe"
-     
+  {
+    "name": "Alon Rabinowitz",
+    "githubUsername": "alonrabinowitz",
+    "year": 2,
+    "major": "Computer Science",
+    "favoriteHobby": "Saying hi to Joe"
+  }
 ]
