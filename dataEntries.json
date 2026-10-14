@@ -119,6 +119,20 @@
     "favoriteHobby" : "Piano"
   },
   {
+    "name": "Alon Rabinowitz",
+    "githubUsername": "alonrabinowitz",
+    "year": 2,
+    "major": "Computer Science",
+    "favoriteHobby": "Saying hi to Joe"
+  },
+  {
+    "name": "Alexis Luo",
+    "githubUsername": "6elax",
+    "year": 2,
+    "major": "Computer Science",
+    "favoriteHobby": "Piano"
+  },
+  {
     "name": "Dylan Lesseg",
     "githubUsername": "dlesseg",
     "year": 2,
@@ -145,5 +159,12 @@
     "year": 1,
     "major": "Electrical Engineering",
     "favoriteHobby": "Gaming"
+  },
+  {
+    "name": "Cameron O'Hair",
+    "githubUsername": "cohair",
+    "year": 3,
+    "major": "Computer Engineering",
+    "favoriteHobby": "Snowboarding and reading"
   }
 ]
