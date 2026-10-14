@@ -145,5 +145,12 @@
     "year": 1,
     "major": "Electrical Engineering",
     "favoriteHobby": "Gaming"
+  },
+  {
+    "name": "Cameron O'Hair",
+    "githubUsername": "cohair",
+    "year": 3,
+    "major": "Computer Engineering",
+    "favoriteHobby": "Snowboarding and reading"
   }
 ]
