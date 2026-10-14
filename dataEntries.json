@@ -1,10 +1,11 @@
 [
+[
   {
-    "name": "Cameron O'Hair",
-    "githubUsername": "cohair",
-    "year": 3,
-    "major": "Computer Engineering",
-    "favoriteHobby": "Snowboarding and reading"
+    "name": "Your Name",
+    "githubUsername": "your-github-username",
+    "year": 0,
+    "major": "Computer Science",
+    "favoriteHobby": "Coding"
   },
   {
     "name": "Zhonghe Cai",
@@ -19,6 +20,13 @@
     "year": 2,
     "major": "Computer Science",
     "favoriteHobby": "Reading"
+  },
+  {
+    "name": "Bharat Marimuthu",
+    "githubUsername": "bharatmarimuthu",
+    "year": 1,
+    "major": "Computer Science: Computer Game Design",
+    "favoriteHobby": "Lifting"
   },
   {
     "name": "Jadon Shupe",
@@ -84,10 +92,52 @@
     "favoriteHobby": "Seal/Sea Lion Watching"
   },
   {
+    "name": "Varun Bharadwaj",
+    "githubUsername": "vbharad2-sketch",
+    "year": 2,
+    "major": "Computer Science",
+    "favoriteHobby": "Tennis"
+  },
+  {
+    "name": "Riddhi Mundhra",
+    "githubUsername": "rmundhra",
+    "year": 4,
+    "major": "Computer Engineering",
+    "favoriteHobby": "Writing & Music"
+  },
+  {
     "name": "Brian Acosta",
     "githubUsername": "baacosta-cmyk",
     "year": 2,
     "major": "Electrical Engineering",
     "favoriteHobby": "Guitar"
-  }
+  },
+  {
+    "name": "Dylan Lesseg",
+    "githubUsername": "dlesseg",
+    "year": 2,
+    "major": "Physics",
+    "favoriteHobby": "Skiing"
+  },
+  {
+    "name": "Pranav Kamat",
+    "githubUsername": "PranavKamat-12",
+    "year": 3,
+    "major": "Electrical Engineering and Mathematics",
+    "favoriteHobby": "Touching grass"
+  },
+  {
+    "name": "Owen H.",
+    "githubUsername": "MoonstoneStudios",
+    "year": 1,
+    "major": "Computer Engineering",
+    "favoriteHobby": "Drawing"
+  },
+  {
+    "name": "Cameron O'Hair",
+    "githubUsername": "chair",
+    "year": 3,
+    "major": "Computer Engineering",
+    "favoriteHobby": "Snowboarding and reading"
+  },
 ]
